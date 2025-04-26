@@ -58,8 +58,7 @@ asyncio
    - `api_id`: A number
    - `api_hash`: A string of letters and numbers
    
-Keep these credentials safe, you'll need them to run the script!
-
+Keep these credentials safe, you'll need them to run the script!.
 ## Setup and Running 🔧
 
 1. Clone the repository:
